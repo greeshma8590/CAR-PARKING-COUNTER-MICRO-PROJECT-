@@ -53,6 +53,8 @@ This project aims to improve parking space management and can be extended to oth
 * Circuit design and hardware implementation of a practical system.
 
 ---
+## Model Image
+![Image](https://github.com/user-attachments/assets/299d6933-ac6e-48ae-b4ba-5896cc62e7f8)
 
 ## 📚 References
 
@@ -62,5 +64,3 @@ This project aims to improve parking space management and can be extended to oth
 * [YouTube Video 2](https://youtu.be/6e8oV2blkGs)
 
 ---
-## Model Image
-![Image](https://github.com/user-attachments/assets/299d6933-ac6e-48ae-b4ba-5896cc62e7f8)
