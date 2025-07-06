@@ -1,4 +1,4 @@
-# CAR-PARKING-COUNTER-MICRO-PROJECT-
+# CAR-PARKING-COUNTER
 # 🚗 Car Parking Counter
 
 A basic electronic system that counts the number of vehicles in a parking lot using infrared (IR) sensors and digital components like counters, adders, and display decoders.
